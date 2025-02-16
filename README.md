@@ -1,0 +1,3 @@
+USED GEMMA2 THROUGH GROQ API TO BUILD A WEB BASED LANGUAGE TRANSLATION LLM APPLICATION 
+
+![image](https://github.com/user-attachments/assets/8701f2f4-ef41-423e-a01e-ee92469b5859)
